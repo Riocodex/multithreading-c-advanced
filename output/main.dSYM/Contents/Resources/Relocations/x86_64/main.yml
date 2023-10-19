@@ -1,0 +1,9 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/mac/Documents/code/School/class 1/multithreading/output/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _myTurn, symObjAddr: 0x0, symBinAddr: 0x100003F00, symSize: 0x30 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _myTurn, symObjAddr: 0x0, symBinAddr: 0x100003F00, symSize: 0x30 }
+  - { offsetInCU: 0x56, offset: 0x56, size: 0x8, addend: 0x0, symName: _yourTurn, symObjAddr: 0x30, symBinAddr: 0x100003F30, symSize: 0x30 }
+  - { offsetInCU: 0x6B, offset: 0x6B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x60, symBinAddr: 0x100003F60, symSize: 0x21 }
+...
