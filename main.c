@@ -40,7 +40,6 @@ int main(int argc, char* argv[])
 
     //threads as arrays
 
-    // int* mallocArr = (int*) malloc (argc * sizeof(int));
 
     if (argc != 2){
         printf("wrong number of arguments");
